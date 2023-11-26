@@ -1,2 +1,0 @@
-# mangcoding-Store
-mangcoding Store
